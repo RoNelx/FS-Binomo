@@ -59,7 +59,7 @@ public CreditsEzpz()
 	printf("");
     printf(" ======================================================== ");
     printf("|							 |");
-    printf("|    System Binomo/Trading By [HomeGT](Indrakenz :v)   |");
+    printf("|    System Binomo/Trading By [RoNelx](Indrakenz :v)   |");
     printf("|							 |");
     printf(" ======================================================== ");
     printf("");
